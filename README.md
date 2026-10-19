@@ -23,6 +23,10 @@ A delivery-risk intelligence prototype with an XGBoost prediction service, FastA
 A career-planning prototype built with FastAPI and LangGraph that turns a role goal and current skills into a skill-gap analysis, learning plan, and interview practice.
 - **Engineering focus:** stateful workflows, retrieval, API design, and LLM integration
 
+### [InterviewPilot](https://github.com/vidwansai66/interviewpilot)
+An adaptive interview-practice prototype built with FastAPI and LangGraph, including human-in-the-loop answer submission, structured evaluation, and difficulty adjustment.
+- **Engineering focus:** stateful workflows, API design, validation, and session handling
+
 ### [ResumeForge](https://github.com/vidwansai66/ResumeForge)
 A resume-review workflow that compares a resume with a job description and produces structured, evidence-grounded improvement suggestions.
 - **Engineering focus:** document parsing, orchestration, validation
