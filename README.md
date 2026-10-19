@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vidwansai" target="_blank">
+  <a href="https://www.linkedin.com/in/saividwan-bacchu-859a79309/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="https://github.com/vidwansai66" target="_blank">
@@ -172,7 +172,7 @@
 ## 🤝 Let's connect
 
 <p>
-  <a href="https://www.linkedin.com/in/vidwansai">
+  <a href="https://www.linkedin.com/in/saividwan-bacchu-859a79309/">
     <img src="https://img.shields.io/badge/LinkedIn-Bacchu%20Sai%20Vidwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
   <a href="https://github.com/vidwansai66">
