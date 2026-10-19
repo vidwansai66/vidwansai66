@@ -1,102 +1,53 @@
 # Bacchu Sai Vidwan
 
-### AI Systems Builder • Multi-Agent Workflow Developer • Enterprise AI Explorer
+**B.Tech CSE (AI & ML) student | Software Engineer in training | Applied AI & backend systems**
 
-Building autonomous AI systems, operational intelligence platforms, and cinematic enterprise coordination experiences.
+I build practical software that connects AI workflows, APIs, and user-facing products. My current focus is on reliable backend services, agentic AI systems, and end-to-end applications—not just demos.
 
----
+- 🎓 CSE (AI & ML), MLR Institute of Technology
+- 🧠 Focus: Python, FastAPI, machine learning, LLM applications, agent workflows
+- 🛠️ Engineering interests: API design, testing, observability, databases, deployment
+- 🌱 Currently improving: data structures & algorithms, system design fundamentals, production-quality project practices
 
-![NEXTJS](https://img.shields.io/badge/NEXTJS-15-black?style=for-the-badge)
-![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-5-blue?style=for-the-badge)
-![TAILWINDCSS](https://img.shields.io/badge/TAILWINDCSS-CYBERPUNK-06b6d4?style=for-the-badge)
-![N8N](https://img.shields.io/badge/N8N-WORKFLOWS-orange?style=for-the-badge)
-![OPENROUTER](https://img.shields.io/badge/OPENROUTER-AI-purple?style=for-the-badge)
-![VERCEL](https://img.shields.io/badge/DEPLOYED-VERCEL-black?style=for-the-badge)
-![AI_SYSTEMS](https://img.shields.io/badge/FOCUS-AI_SYSTEMS-00ffcc?style=for-the-badge)
+## Featured Projects
 
----
+### [Venlix](https://github.com/vidwansai66/Venlix)
+Delivery-risk prediction backend using Python, FastAPI, XGBoost, and SQLite. Includes model-training notebooks and REST endpoints for predictions, delivery history, reports, and map data.
+- **Focus:** applied ML, backend APIs, model serving
+- **Next improvements:** measured model evaluation, data/documentation clarity, tests, CI
 
-# 🚀 Current Focus
+### [CareerPilot](https://github.com/vidwansai66/CareerPilot)
+A career-planning and interview-preparation application built around LangGraph, FastAPI, and Gemini, with skill-gap analysis and a personalized roadmap.
+- **Focus:** LLM workflows, stateful orchestration, deterministic fallbacks
 
-- Multi-Agent AI Systems
-- Enterprise Workflow Orchestration
-- Autonomous Operational Intelligence
-- AI Executive Coordination Platforms
-- Full-Stack AI Applications
-- Real-Time Workflow Automation
-- Future Enterprise Interfaces
+### [ResumeForge](https://github.com/vidwansai66/ResumeForge)
+A resume-analysis workflow that compares a resume with a job description, proposes evidence-grounded improvements, and reviews the output for quality.
+- **Focus:** document processing, agent workflows, validation
 
----
+### [GHOST BOARD](https://github.com/vidwansai66/Ghost-Board)
+A multi-agent enterprise crisis-coordination demo built with Next.js, TypeScript, and workflow automation.
+- **Focus:** AI product UX, orchestration, interactive dashboards
+- [Live demo](https://ghostboard-sable.vercel.app/)
 
-# 🌌 Featured Project
+## Technical Skills
 
-## GHOST BOARD — Autonomous AI Executive Coordination System
+- **Languages:** Python, Java, C, SQL, TypeScript/JavaScript
+- **Backend:** FastAPI, REST APIs, Pydantic, SQLAlchemy
+- **AI/ML:** pandas, NumPy, scikit-learn, XGBoost, LangChain/LangGraph, LLM API integration
+- **Web:** React, Next.js, HTML, CSS
+- **Tools:** Git, GitHub, VS Code, SQLite, MySQL
 
-A cinematic enterprise AI operating system where autonomous AI executives coordinate during cyberattacks, operational failures, and enterprise-scale crises in real time.
+I keep this list aligned with tools I can explain and use in a project. Project-specific setup instructions and evidence belong in each repository.
 
-### 🔗 Live Demo
-https://ghostboard-sable.vercel.app/
+## How I Work
 
-### 🔗 GitHub Repository
-https://github.com/vidwansai66/Ghost-Board
+- Prefer clear APIs, explicit assumptions, and reproducible setup steps.
+- Add tests and automated checks where practical.
+- Document limitations and trade-offs instead of claiming a prototype is production-ready.
+- Use Git history to show incremental, understandable engineering work.
 
----
+## Connect
 
-# 🧠 What I Build
+- [GitHub](https://github.com/vidwansai66)
+- [LinkedIn](https://www.linkedin.com/in/vidwansai)
 
-I build AI-powered systems focused on:
-
-- Autonomous workflow orchestration
-- Multi-agent AI coordination
-- Enterprise operational intelligence
-- Real-time decision systems
-- AI-powered enterprise experiences
-- Full-stack AI products
-- Futuristic command-center interfaces
-
----
-
-# ⚡ Tech Stack
-
-## Frontend
-
-- Next.js
-- TypeScript
-- TailwindCSS
-- Framer Motion
-
-## AI + Automation
-
-- OpenRouter AI
-- n8n Workflow Automation
-- AI Agent Orchestration
-
-## Infrastructure
-
-- Railway
-- Vercel
-- Real-Time Webhook Systems
-
----
-
-# 🛰 Philosophy
-
-I’m interested in building systems that explore how future enterprises may operate through collaborative AI agents capable of coordinating workflows, analyzing operational data, and responding autonomously in real time.
-
----
-
-# 📡 Connect
-
-### GitHub
-https://github.com/vidwansai66
-
-### LinkedIn
-(Add your LinkedIn here)
-
----
-
-# 🌐 Vision
-
-The future enterprise will not just use AI.
-
-It will be operated by AI.
